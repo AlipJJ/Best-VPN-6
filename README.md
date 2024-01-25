@@ -3,7 +3,7 @@
 
 我们对以下推荐的机场梯子进行测速，保证机场线路稳定可靠，且满足高性价比低价因素外，我们尽可能推荐成立时间较长翻墙机场，以最大限度地降低机场跑路的风险。以下机场梯子推荐适用于多个平台上的Clash for Windows、Clash for Android、ClashX、Surfboard、Shadowrocket、V2rayN、Surge、Quantumult X、Stash、Loon、sing-box等翻墙插件。这些梯子软件可以直接导入并使用，适合已经掌握一些基础翻墙知识的用户。
 
-![](https://pic.imgdb.cn/item/65b1f4b7871b83018a7e25ea.jpg)
+![机场推荐.jpg](https://s2.loli.net/2024/01/25/Mh1IDX7cxB3Nrg5.jpg)
 
 ## Feijiyun飞机云机场 2024稳定便宜机场首选
 [直达官网注册](https://go.51tz.cc/fjcloud)
