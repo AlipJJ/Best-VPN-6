@@ -5,12 +5,12 @@
 
 ![机场推荐.jpg](https://s2.loli.net/2024/01/25/Mh1IDX7cxB3Nrg5.jpg)
 
-## Feijiyun飞机云机场 2024稳定便宜机场首选
-[直达官网注册](https://go.51tz.cc/fjcloud)
+## JF疾风云机场 2024稳定便宜机场首选
+[直达官网注册](https://go.51tz.cc/jfcloud)
 
 * 主打稳定便宜的Clash机场，同时支持Surge、Stash、Shadowrocket、QuantumultX
 * 支付方式灵活：月付、季付、半年付、年付、两年付
-* 价格：￥12元/月起， 您可以根据每个月需要的流量来决定购买不同的等级
+* 价格：￥9.9元/月起， 您可以根据每个月需要的流量来决定购买不同的等级
 * 流媒体 ：4K不卡顿，港台新节点解锁奈飞Netflix/Disney+/HULU/HBO/TVB/动画疯等国外流媒体视频
 * 最多支持同时10台设备连接
 * 机场优点 ：隧道节点现已可正常使用，采用移动+CMI2G带宽。
