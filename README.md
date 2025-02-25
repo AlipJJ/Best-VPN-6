@@ -1,12 +1,12 @@
 # 2025 机场推荐丨稳定好用便宜的手机电脑科学梯子分享丨免费&付费
-便宜机场推荐|可免费试用梯子分享丨SS/SSR/V2ray/Xray/Trojan/Clash节点购买丨从梯子机场评测来说，我们更倾向于[老牌高端的机场](https://studygolang.com/articles/36474)推荐。毕竟机场节点的科学上网服务就像购买其它任何商品一样，一分钱一分货，但对于学生党或偶尔需要翻墙的用户来说，希望可以花费较少的金钱就可以科学上网，因此我们特别整理了稳定便宜的机场推荐和部分可试用免费梯子分享来满足小伙伴的需求。
+便宜机场推荐|可免费试用梯子分享丨SS/SSR/V2ray/Xray/Trojan/Clash节点购买丨从梯子机场评测来说，我们更倾向于[老牌高端的机场](https://github.com/AlipJJ/tizi)推荐。毕竟机场节点的科学上网服务就像购买其它任何商品一样，一分钱一分货，但对于学生党或偶尔需要翻墙的用户来说，希望可以花费较少的金钱就可以科学上网，因此我们特别整理了稳定便宜的机场推荐和部分可试用免费梯子分享来满足小伙伴的需求。
 
 我们对以下推荐的机场梯子进行测速，保证机场线路稳定可靠，且满足高性价比低价因素外，我们尽可能推荐成立时间较长翻墙机场，以最大限度地降低机场跑路的风险。以下机场梯子推荐适用于多个平台上的Clash for Windows、Clash for Android、ClashX、Surfboard、Shadowrocket、V2rayN、Surge、Quantumult X、Stash、Loon、sing-box等翻墙插件。这些梯子软件可以直接导入并使用，适合已经掌握一些基础翻墙知识的用户。
 
-![机场推荐.jpg](https://s2.loli.net/2024/01/25/Mh1IDX7cxB3Nrg5.jpg)
+![机场推荐.jpg](https://www.cnvintage.org/assets/files/2025-02-25/1740483567-593015-image.png)
 
-## JF疾风云机场 2025稳定便宜机场首选
-[直达官网注册](https://go.1vpn.cc/jife)
+## 尔湾云机场 2025稳定便宜机场首选
+[直达官网注册](https://go.1vpn.cc/ewan)
 
 * 主打稳定便宜的Clash机场，同时支持Surge、Stash、Shadowrocket、QuantumultX
 * 支付方式灵活：月付、季付、半年付、年付、两年付
